@@ -29,6 +29,7 @@ Below is the list of available OpenShift dynamic plugins. Feel free to contribut
 
 ## Plugin List
 
+- Openshift Dashboards: <https://github.com/openshift/console-dashboards-plugin>
 - Openshift Monitoring: <https://github.com/openshift/monitoring-plugin>
 - Openshift Logging View: <https://github.com/openshift/logging-view-plugin>
 - Openshift Distributed Tracing: <https://github.com/openshift/distributed-tracing-console-plugin>
